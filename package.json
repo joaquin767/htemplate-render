@@ -1,6 +1,6 @@
 {
   "name": "htemplate-render",
-  "description": "A template parser-render for multi purposes",
+  "description": "Provide an easy, direct and powerful way to renderize an entire directory of templates using handlebars templates (with all the benefits that this implies). All the features of the templetes from handlebars are available to renderize",
   "version": "0.0.1",
   "author": "Joaquin Gabriel Veliz",
   "bin": {
@@ -31,7 +31,13 @@
   ],
   "homepage": "https://github.com/joaquin767/htemplate-render",
   "keywords": [
-    "oclif"
+    "handlebars",
+    "cli",
+    "render",
+    "template",
+    "entire",
+    "directory",
+    "path"
   ],
   "license": "MIT",
   "main": "src/index.js",

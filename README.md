@@ -1,7 +1,7 @@
-htemplate-render
+Handlebars template render
 ===============
 
-A template parser-render for multi purposes
+Provide an easy, direct and powerful way to renderize an entire directory of templates using handlebars templates (with all the benefits that this implies). All the features of the templetes from handlebars are available to renderize
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/htemplate-render.svg)](https://npmjs.org/package/htemplate-render)
