@@ -1,12 +1,12 @@
 {
-  "name": "template-render",
+  "name": "htemplate-render",
   "description": "A template parser-render for multi purposes",
   "version": "0.0.1",
   "author": "Joaquin Gabriel Veliz",
   "bin": {
-    "template-render": "./bin/run"
+    "htemplate-render": "./bin/run"
   },
-  "bugs": "https://github.com/joaquin767/template-render/issues",
+  "bugs": "https://github.com/joaquin767/htemplate-render/issues",
   "dependencies": {
     "@oclif/command": "^1.8.0",
     "@oclif/config": "^1.17.0",
@@ -29,7 +29,7 @@
     "/oclif.manifest.json",
     "/src"
   ],
-  "homepage": "https://github.com/joaquin767/template-render",
+  "homepage": "https://github.com/joaquin767/htemplate-render",
   "keywords": [
     "oclif"
   ],
@@ -37,12 +37,12 @@
   "main": "src/index.js",
   "oclif": {
     "commands": "./src/commands",
-    "bin": "template-render",
+    "bin": "htemplate-render",
     "plugins": [
       "@oclif/plugin-help"
     ]
   },
-  "repository": "joaquin767/template-render",
+  "repository": "joaquin767/htemplate-render",
   "scripts": {
     "postpack": "rm -f oclif.manifest.json",
     "posttest": "eslint .",
