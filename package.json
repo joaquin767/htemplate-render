@@ -12,7 +12,7 @@
     "@oclif/config": "^1.17.0",
     "@oclif/plugin-help": "^3.2.0",
     "glob": "^7.1.6",
-    "handlebars": "^4.7.6"git@github.com:joaquin767/template-render.git
+    "handlebars": "^4.7.6"
   },
   "devDependencies": {
     "@oclif/dev-cli": "^1.23.0",
