@@ -1,7 +1,7 @@
 {
   "name": "htemplate-render",
   "description": "Provide an easy, direct and powerful way to renderize an entire directory of templates using handlebars templates (with all the benefits that this implies). All the features of the templetes from handlebars are available to renderize",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Joaquin Gabriel Veliz",
   "bin": {
     "htemplate-render": "./bin/run"
