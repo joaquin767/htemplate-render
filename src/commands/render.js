@@ -18,7 +18,6 @@ class RenderCommand extends Command {
     glob("**/*.{conf,yml,js,yaml}", { ignore: "node_modules/**/*.*" }, function (er, files) {
       for (let index = 0; index < files.length; index++) {
         const element = files[index];
-        this.log();
         // Get file absolute path
         const fullPath = path.resolve(element);
         // Rename template to a temp file
