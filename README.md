@@ -19,7 +19,7 @@ $ npm install -g htemplate-render
 $ htemplate-render COMMAND
 running command...
 $ htemplate-render (-v|--version|version)
-htemplate-render/0.0.2 linux-x64 node-v10.19.0
+htemplate-render/0.0.3 linux-x64 node-v10.19.0
 $ htemplate-render --help [COMMAND]
 USAGE
   $ htemplate-render COMMAND
@@ -32,8 +32,6 @@ USAGE
 * [`htemplate-render render`](#htemplate-render-render)
 
 ## `htemplate-render help [COMMAND]`
-
-
 
 display help for htemplate-render
 
@@ -72,12 +70,13 @@ DESCRIPTION
   the files.
 ```
 
-_See code: [src/commands/render.js](https://github.com/joaquin767/htemplate-render/blob/v0.0.2/src/commands/render.js)_
+_See code: [src/commands/render.js](https://github.com/joaquin767/htemplate-render/blob/v0.0.3/src/commands/render.js)_
 <!-- commandsstop -->
 ## Example:
 ### Template:
 ![Screenshot_20201116_080336](https://user-images.githubusercontent.com/47214308/99245450-5b225180-27e2-11eb-9fc2-7cea5fca67c2.png)
 ### Env file in JSON format:
-![Screenshot_20201116_081008](https://user-images.githubusercontent.com/47214308/99245922-311d5f00-27e3-11eb-9985-1dee9f31e143.png)
+![Screenshot_20201116_083636](https://user-images.githubusercontent.com/47214308/99248236-e30a5a80-27e6-11eb-91d7-61ce2a4608f5.png)
 ### Renderized file:
-![Screenshot_20201116_080751](https://user-images.githubusercontent.com/47214308/99245743-e00d6b00-27e2-11eb-98ac-c2bb93a1b0b5.png)
+![Screenshot_20201116_083826](https://user-images.githubusercontent.com/47214308/99248382-1e0c8e00-27e7-11eb-8f03-adc4821fba0e.png)
+
