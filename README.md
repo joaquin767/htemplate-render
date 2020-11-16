@@ -19,7 +19,7 @@ $ npm install -g htemplate-render
 $ htemplate-render COMMAND
 running command...
 $ htemplate-render (-v|--version|version)
-htemplate-render/0.0.3 linux-x64 node-v10.19.0
+htemplate-render/0.0.4 linux-x64 node-v10.19.0
 $ htemplate-render --help [COMMAND]
 USAGE
   $ htemplate-render COMMAND
@@ -70,7 +70,7 @@ DESCRIPTION
   the files.
 ```
 
-_See code: [src/commands/render.js](https://github.com/joaquin767/htemplate-render/blob/v0.0.3/src/commands/render.js)_
+_See code: [src/commands/render.js](https://github.com/joaquin767/htemplate-render/blob/v0.0.4/src/commands/render.js)_
 <!-- commandsstop -->
 ## Example:
 ### Template:
@@ -79,4 +79,3 @@ _See code: [src/commands/render.js](https://github.com/joaquin767/htemplate-rend
 ![Screenshot_20201116_083636](https://user-images.githubusercontent.com/47214308/99248236-e30a5a80-27e6-11eb-91d7-61ce2a4608f5.png)
 ### Renderized file:
 ![Screenshot_20201116_083826](https://user-images.githubusercontent.com/47214308/99248382-1e0c8e00-27e7-11eb-8f03-adc4821fba0e.png)
-
