@@ -33,6 +33,8 @@ USAGE
 
 ## `htemplate-render help [COMMAND]`
 
+
+
 display help for htemplate-render
 
 ```
@@ -72,3 +74,10 @@ DESCRIPTION
 
 _See code: [src/commands/render.js](https://github.com/joaquin767/htemplate-render/blob/v0.0.2/src/commands/render.js)_
 <!-- commandsstop -->
+## Example:
+### Template:
+![Screenshot_20201116_080336](https://user-images.githubusercontent.com/47214308/99245450-5b225180-27e2-11eb-9fc2-7cea5fca67c2.png)
+### Env file in JSON format:
+![Screenshot_20201116_081008](https://user-images.githubusercontent.com/47214308/99245922-311d5f00-27e3-11eb-9985-1dee9f31e143.png)
+### Renderized file:
+![Screenshot_20201116_080751](https://user-images.githubusercontent.com/47214308/99245743-e00d6b00-27e2-11eb-98ac-c2bb93a1b0b5.png)
